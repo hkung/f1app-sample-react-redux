@@ -1,0 +1,28 @@
+{
+  "name": "f1-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "enzyme": "^2.6.0",
+    "react-addons-test-utils": "^15.3.2",
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.16.0",
+    "material-ui": "^0.16.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^3.0.0",
+    "react-router-redux": "^4.0.7",
+    "react-tap-event-plugin": "^1.0.0",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

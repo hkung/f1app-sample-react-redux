@@ -2,6 +2,7 @@
   "name": "f1-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hkung.github.io/f1app-sample-react-redux",
   "devDependencies": {
     "enzyme": "^2.6.0",
     "react-addons-test-utils": "^15.3.2",
